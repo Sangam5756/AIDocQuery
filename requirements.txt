@@ -1,0 +1,5 @@
+flask
+cohere
+pdfminer.six
+faiss-cpu
+python-dotenv
