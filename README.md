@@ -1,5 +1,5 @@
 
-## 🧠 AIFileQuery
+## 🧠 AIDocQuery
 ## Why This System? (The Need)
 
 ### ✅ Problem
